@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow : /dashboards
+
+sitemap: hocalhost/sitemap.xml
